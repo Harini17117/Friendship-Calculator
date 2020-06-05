@@ -1,0 +1,40 @@
+body{
+  background-color: #ff8ba7;
+  text-align: center;
+}
+h1{
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  font-size: 8rem;
+  color: #655c56;
+}
+p{
+  font-family: 'Lobster', cursive;
+  font-size: 2rem;
+    color: white;
+}
+table{
+  width:100%;
+  text-align: center;
+}
+.btn{
+  text-align: center;
+  background-color: #ff2e63;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+border-radius: 12px;
+}
+input[type=text]
+{
+  background-color:#ffcccc;
+  color:#ff2e63;
+  width:50%;
+  box-sizing: border-box;
+  padding: 12px 20px;
+  
+}
